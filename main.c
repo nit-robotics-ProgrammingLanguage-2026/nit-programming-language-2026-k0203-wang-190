@@ -2,7 +2,7 @@
 
 int main(void) 
 {
-   printf("このノートは\\105です");
+   printf("このノートは\\%です",105);
     
     return 0;
 }
